@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "LOSER（米津玄師） -Arrange ver.-cover【まふまふ】",
+  "base_artist": "まふまふ",
+  "createdAt": "2026-01-03T08:28:39.871781Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOSER",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_LOSER_まふまふ.txt"
+    }
+  ]
+}
